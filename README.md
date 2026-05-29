@@ -6,7 +6,7 @@ Python wrapper for authenticating with SAS Viya OAuth APIs and scoring machine l
 
 ```text
 wrapper-model/
-│
+
 ├── DS2Pkg_PythonWrapper.sas
 ├── ModelProperties.json
 ├── example_test.py
@@ -34,8 +34,6 @@ wrapper-model/
 
 # Scoring the Wrapper-Model in SAS Studio
 
-## SAS Studio Scoring Structure
-
 ```text
-└── scoring-wrapper-model.sas
+├── scoring-wrapper-model.sas
 ```
