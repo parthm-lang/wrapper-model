@@ -1,8 +1,8 @@
-# wrapper-model
+# Wrapper-model
 
 Python wrapper for authenticating with SAS Viya OAuth APIs and scoring machine learning models through SAS Micro Analytic Service (MAS) endpoints using Model REST APIs.
 
-### Wrapper-Model Project Structure to implement in SAS Model Manager as a custom model
+#### Wrapper-Model Project Structure to implement in SAS Model Manager as a custom model
 
 ```text
 wrapper-model/
@@ -17,7 +17,7 @@ wrapper-model/
 └── settings.py
 ```
 
-### File Descriptions
+#### File Descriptions
 
 | File                       | Description                                                       |
 | -------------------------- | ----------------------------------------------------------------- |
@@ -32,7 +32,7 @@ wrapper-model/
 
 ---
 
-### Scoring the Wrapper-Model in SAS Studio
+#### Scoring the Wrapper-Model in SAS Studio
 
 ```text
 ├── scoring-wrapper-model.sas
