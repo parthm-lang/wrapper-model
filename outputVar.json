@@ -1,0 +1,22 @@
+[
+   {
+      "name": "access_token",
+      "description": "",
+      "role": "output",
+      "type": "string",
+      "level": "",
+      "format": "",
+      "aggregation": "",
+      "length": 10000
+   },
+   {
+      "name": "score_response_json",
+      "description": "",
+      "role": "output",
+      "type": "string",
+      "level": "",
+      "format": "",
+      "aggregation": "",
+      "length": 9999
+   }
+]

@@ -1,0 +1,16 @@
+{
+   "creationTimeStamp": "2026-05-21T08:32:25.969Z",
+   "createdBy": "Parthiban.M@sas.com",
+   "modifiedTimeStamp": "2026-05-21T08:34:47.932Z",
+   "modifiedBy": "Parthiban.M@sas.com",
+   "id": "386bd18e-ca5a-4e29-824f-b0d6fc630c53",
+   "name": "WrapperModel",
+   "scoreCodeType": "python",
+   "function": "analytical",
+   "modelType": "python",
+   "costPerCall": "0",
+   "immutable": false,
+   "partitionValues": {},
+   "modelVersionName": "2.0",
+   "custom properties": []
+}
